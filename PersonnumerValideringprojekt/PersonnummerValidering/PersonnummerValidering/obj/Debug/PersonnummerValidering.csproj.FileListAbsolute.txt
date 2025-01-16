@@ -1,0 +1,7 @@
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\bin\Debug\PersonnummerValidering.exe.config
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\bin\Debug\PersonnummerValidering.exe
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\bin\Debug\PersonnummerValidering.pdb
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\obj\Debug\PersonnummerValidering.csproj.AssemblyReference.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\obj\Debug\PersonnummerValidering.csproj.CoreCompileInputs.cache
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\obj\Debug\PersonnummerValidering.exe
+C:\Users\Abdullahi Elmi\OneDrive\Desktop\UtbildningKYH2023\CICD2025\PersonnumerValideringprojekt\PersonnummerValidering\PersonnummerValidering\obj\Debug\PersonnummerValidering.pdb
